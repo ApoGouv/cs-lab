@@ -118,3 +118,72 @@ The appropriate mode depends on the task and the level of control and involvemen
 
 AI Fluency is important because effective AI collaboration is not just about getting an AI system to produce an output. It is also about understanding **how we should collaborate with AI depending on the task and the level of autonomy we give it**.
 
+
+## 3. The 4D Framework
+
+The AI Fluency Framework consists of four core competencies, known as the **4Ds**:
+
+1. **Delegation**
+2. **Description**
+3. **Discernment**
+4. **Diligence**
+
+These competencies provide a framework for working with AI effectively, efficiently, ethically, and safely.
+
+### Delegation
+
+**Delegation** is deciding what work to do with AI and what work to do myself.
+
+This involves thoughtfully dividing a task between human and AI rather than automatically giving everything to AI.
+
+The appropriate division can depend on the task, the desired outcome, and the level of AI involvement.
+
+### Description
+
+**Description** is communicating effectively with AI systems.
+
+This means clearly communicating what I want the AI to do, including the relevant context, goals, and expectations needed for it to perform the task well.
+
+### Discernment
+
+**Discernment** is evaluating AI outputs and behaviour critically.
+
+AI output should not automatically be treated as correct or appropriate. I need to evaluate the result and decide whether it meets the requirements and whether it should be accepted, modified, or rejected.
+
+### Diligence
+
+**Diligence** is ensuring responsible AI collaboration.
+
+This includes considering the responsibilities and implications of using AI and taking responsibility for how AI is used and for the resulting work.
+
+### The 4Ds work together
+
+The four competencies are not separate steps that are used only in isolation. They work together across different ways of engaging with AI.
+
+For example:
+
+```text
+Delegation > What should AI do?
+
+Description > What does AI need to know and what do I want?
+
+Discernment > Is the result correct and useful?
+
+Diligence > Am I using AI responsibly?
+```
+
+### The 4Ds across different collaboration modes
+
+The 4Ds apply across the three ways of working with AI introduced in the previous lesson:
+
+* **Automation** - AI executes specific tasks based on instructions.
+* **Augmentation** - Human and AI collaborate as thinking and task-execution partners.
+* **Agency** - AI works more independently on my behalf, with the human shaping its knowledge and behaviour rather than specifying every individual action.
+
+The 4Ds therefore provide a framework that can remain useful regardless of how AI capabilities and collaboration models evolve.
+
+### Key takeaway
+
+The 4D Framework provides a practical way to think about the **human side of AI collaboration**.
+
+The goal is not simply to become better at prompting AI, but to develop the ability to decide what AI should do, communicate effectively, evaluate the results, and use AI responsibly.
